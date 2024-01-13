@@ -1,4 +1,4 @@
-# Image-to-Image Translation with Conditional GAN (cGAN)
+# Image-to-Image Translation with Conditional GAN
 ## Overview
 This project focuses on the implementation of a Conditional Generative Adversarial Network (cGAN) for image-to-image translation, specifically targeting the generation of realistic segmented images from input images.<br/>
 The primary objective is to make image segmentation more accessible while providing valuable experience in utilizing cGANs. <br/>
