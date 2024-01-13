@@ -15,7 +15,7 @@ The project compares the results of the cGAN and U-Net models, providing insight
 Pixel-wise accuracy on the validation set is calculated to quantify the performance of both models.
 
 ## Results
-Di seguito vengono mostrate le immagini generate dopo 50 epoche sul training set dal 
+Below are showed the images generated after 50 epochs on the training set
 - CGAN
 ![U-Net result](https://github.com/GRicciardi00/CGAN-Segmentation/blob/main/CGAN%20result.png)
 - U-Net
